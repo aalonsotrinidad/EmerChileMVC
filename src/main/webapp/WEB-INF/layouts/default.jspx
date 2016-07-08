@@ -21,7 +21,6 @@
 		    <tiles:insertAttribute name="menu" ignore="true" />   
 		    <div id="main">
 	    		<tiles:insertAttribute name="body"/> 
-	    		<form:input path="userName" />
 		    	<tiles:insertAttribute name="footer" ignore="true"/>
 		    </div> 		    
 		</div>
