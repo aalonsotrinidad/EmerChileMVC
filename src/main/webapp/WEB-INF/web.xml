@@ -91,4 +91,7 @@
         <error-code>404</error-code>
         <location>/resourceNotFound</location>
     </error-page>
+  	<welcome-file-list>
+		<welcome-file>login.jsp</welcome-file>
+	</welcome-file-list>
 </web-app>
