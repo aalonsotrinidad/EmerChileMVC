@@ -16,22 +16,14 @@
 	</head>
 	
   	<body class="tundra spring">
-   		<!-- <div id="wrapper">
+   		<div id="wrapper">
 		    <tiles:insertAttribute name="header" ignore="true" />
 		    <tiles:insertAttribute name="menu" ignore="true" />   
 		    <div id="main">
 	    		<tiles:insertAttribute name="body"/> 
+	    		<form:input path="userName" />
 		    	<tiles:insertAttribute name="footer" ignore="true"/>
 		    </div> 		    
-		</div>-->
-		 <div>
-  			<input id="user" type="text" value="">
-  		</div>
-    	<div>
-  			<input id="password" type="text" value="">
-  		</div>
-  		<div>
-  			<input id="loggarse" type="submit" value="Log in">
-  		</div>
+		</div>
 	</body>
 </html>
