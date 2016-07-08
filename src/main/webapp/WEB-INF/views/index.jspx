@@ -11,9 +11,4 @@
       <spring:message code="welcome_text" />
     </p>
   </util:panel>
-  <div>
-  	Prueba
-  	<input type="text" value="">
-  
-  </div>
 </div>
