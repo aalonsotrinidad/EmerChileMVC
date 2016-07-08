@@ -1,4 +1,4 @@
-package com.springsource.petclinic.web;
+package com.springsource.emergencias.web;
 
 import org.springframework.format.FormatterRegistry;
 import org.springframework.format.support.FormattingConversionServiceFactoryBean;

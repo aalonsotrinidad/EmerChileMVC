@@ -9,9 +9,9 @@
     <put-attribute name="body" value="/WEB-INF/views/index.jspx" />
   </definition>
 
-  <definition name="dataAccessFailure" extends="public">
+  <!-- <definition name="dataAccessFailure" extends="public">
     <put-attribute name="body" value="/WEB-INF/views/dataAccessFailure.jspx" />
-  </definition>
+  </definition> 
 
   <definition name="resourceNotFound" extends="public">
     <put-attribute name="body" value="/WEB-INF/views/resourceNotFound.jspx" />
@@ -19,6 +19,6 @@
 
   <definition name="uncaughtException" extends="public">
     <put-attribute name="body" value="/WEB-INF/views/uncaughtException.jspx" />
-  </definition>
+  </definition>-->
 
 </tiles-definitions>

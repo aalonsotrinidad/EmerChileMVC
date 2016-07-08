@@ -1,5 +1,5 @@
-package com.springsource.petclinic.web;
-import com.springsource.petclinic.domain.Owner;
+package com.springsource.emergencias.web;
+import com.springsource.emergencias.domain.Owner;
 import org.springframework.roo.addon.web.mvc.controller.scaffold.RooWebScaffold;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;

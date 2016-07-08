@@ -1,4 +1,4 @@
-package com.springsource.petclinic.reference;
+package com.springsource.emergencias.reference;
 
 public enum Specialty {
 
