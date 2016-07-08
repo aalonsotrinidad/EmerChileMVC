@@ -11,14 +11,5 @@
       <spring:message code="welcome_text" />
     </p>
   </util:panel>
-  Prueba
- 		<div>
-		<input id="user" type="text" value="">
-	</div>
- 	<div>
-		<input id="password" type="text" value="">
-	</div>
-	<div>
-		<input id="loggarse" type="submit" value="Log in">
-	</div>
+  
 </div>
